@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(36, 53, 63);
+}
+
+.w-110 {
+    width: 110%;
+}
+
+.h-35 {
+    height: 35%;
+}
+
+@font-face {
+    font-family: "pacifico";
+    src: url(../fonts/Pacifico.ttf);
+}
+
